@@ -1,1 +1,1 @@
-# count-pairs-algorithm
+# Pair Sum Counter
